@@ -1,4 +1,4 @@
-/*EJERCICIO. Sumar los números naturales hasta N
+/*EJERCICIO. Sumar los numeros naturales hasta N
 (Se los damos nostros) de forma recursiva.*/
 
 public class SumaRecursiva {
