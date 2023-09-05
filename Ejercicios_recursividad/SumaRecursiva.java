@@ -1,3 +1,4 @@
+package Ejercicios_recursividad;
 /*EJERCICIO. Sumar los numeros naturales hasta N
 (Se los damos nostros) de forma recursiva.*/
 
