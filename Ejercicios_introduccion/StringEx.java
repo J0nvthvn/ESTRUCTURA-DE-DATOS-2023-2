@@ -1,3 +1,4 @@
+package Ejercicios_introduccion;
 import java.util.Scanner;
 
 public class StringEx {
