@@ -106,6 +106,7 @@ public class Pila {
         actual = primero;
         if (primero != null) {
             while (actual != null) {
+                
                 System.out.print("[" + actual.dato + "]");
                 actual = actual.siguiente;
             }
