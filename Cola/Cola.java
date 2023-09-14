@@ -89,8 +89,8 @@ public class Cola {
         if (primero != null) {
             while (actual != null && !encontrado) {
                 if (actual.dato == nodoBuscar) {
-
-                    if(actual.equals(primero)){
+                    
+                    if(actual.equals(primero)) {
                         primero = primero.siguiente;
                     } else if(actual.equals(ultimo)) {
                         anterior.siguiente = null;
