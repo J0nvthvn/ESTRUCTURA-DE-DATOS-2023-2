@@ -1,7 +1,7 @@
 package Ayudantias;
 import java.util.*;
 
-public class Ayudantia2 {
+public class ay2 {
     public static void main(String[] args) {
         int[] students = {1,1,1,0,0,1};
         int[] sandwiches = {1,0,0,0,1,1};
